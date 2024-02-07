@@ -1,5 +1,7 @@
 # ITIL
 
+Si besoin, vous pouvez me contacter directement sur Teams ou par mail à kenza.aubry@supinfo.com (demande de ressources ou d'informations, prévenir une absences...)
+
 Formulaire stagiaire : https://forms.monday.com/forms/e7ea8d67309be01ac829bf1cfaca3cc7?r=use1
 
 ## JOUR 1
