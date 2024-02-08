@@ -13,3 +13,5 @@ QCM - ITIL - Fondamentaux : https://forms.gle/sumWGnEdrrM7xq839
 TP - SEQ 1 : https://nimble-echinacea-d64.notion.site/SEQ-1-5-points-ff31b267a7c8402ebeda70fb3f81c58d?pvs=4
 
 ## JOUR 2
+
+QCM - Cycle de vie 1/2 : https://docs.google.com/forms/d/e/1FAIpQLSfKH21Abbs-YFsqAiVcjVN6ct3edNDV-cSnMPliDq_bjxf-ng/viewform
