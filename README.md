@@ -16,7 +16,7 @@ TP - SEQ 1 : https://nimble-echinacea-d64.notion.site/SEQ-1-5-points-ff31b267a7c
 
 QCM - Cycle de vie 1/2 : https://docs.google.com/forms/d/e/1FAIpQLSfKH21Abbs-YFsqAiVcjVN6ct3edNDV-cSnMPliDq_bjxf-ng/viewform
 
-Récapitulatif Stratégie des services : 
+Récapitulatif Stratégie des services : https://nimble-echinacea-d64.notion.site/Strat-gie-des-services-98da494cf0b54cb3afd38abd20dadf56?pvs=4
 
 Exercice - Stratégie des services : 
 
