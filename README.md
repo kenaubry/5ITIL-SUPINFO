@@ -28,4 +28,4 @@ Exercice - Conception des services : https://nimble-echinacea-d64.notion.site/Ex
 
 Correction - Conception des services : https://nimble-echinacea-d64.notion.site/Correction-Conception-des-services-e98b2147deb04c0e9be984734e5e15ad?pvs=4
 
-TP - SEQ 2 : 
+TP - SEQ 2 : https://nimble-echinacea-d64.notion.site/TP-SEQ-2-5edd06598940472aa738c42aace4d2cb?pvs=4
