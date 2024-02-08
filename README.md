@@ -20,7 +20,7 @@ Récapitulatif Stratégie des services : https://nimble-echinacea-d64.notion.sit
 
 Exercice - Stratégie des services : https://nimble-echinacea-d64.notion.site/Exercice-Strat-gie-69332e98ec2142beb6fbbf659f689d6d?pvs=4
 
-Correction - Stratégie des services : 
+Correction - Stratégie des services : https://nimble-echinacea-d64.notion.site/Correction-Strat-gie-db48bafd6df645d5953c9724819656d1?pvs=4
 
 Récapitulatif Conception des services : 
 
