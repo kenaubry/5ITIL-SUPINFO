@@ -26,6 +26,6 @@ Récapitulatif Conception des services : https://nimble-echinacea-d64.notion.sit
 
 Exercice - Conception des services : https://nimble-echinacea-d64.notion.site/Exercice-Conception-des-services-e88d64e258ea469d8dab91302b657bfa?pvs=4
 
-Correction - Conception des services : https://www.notion.so/Correction-Conception-des-services-e98b2147deb04c0e9be984734e5e15ad
+Correction - Conception des services : https://nimble-echinacea-d64.notion.site/Correction-Conception-des-services-e98b2147deb04c0e9be984734e5e15ad?pvs=4
 
 TP - SEQ 2 : 
