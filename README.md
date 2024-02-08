@@ -18,7 +18,7 @@ QCM - Cycle de vie 1/2 : https://docs.google.com/forms/d/e/1FAIpQLSfKH21Abbs-YFs
 
 Récapitulatif Stratégie des services : https://nimble-echinacea-d64.notion.site/Strat-gie-des-services-98da494cf0b54cb3afd38abd20dadf56?pvs=4
 
-Exercice - Stratégie des services : 
+Exercice - Stratégie des services : https://nimble-echinacea-d64.notion.site/Exercice-Strat-gie-69332e98ec2142beb6fbbf659f689d6d?pvs=4
 
 Correction - Stratégie des services : 
 
