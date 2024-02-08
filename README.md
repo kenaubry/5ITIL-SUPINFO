@@ -15,3 +15,17 @@ TP - SEQ 1 : https://nimble-echinacea-d64.notion.site/SEQ-1-5-points-ff31b267a7c
 ## JOUR 2
 
 QCM - Cycle de vie 1/2 : https://docs.google.com/forms/d/e/1FAIpQLSfKH21Abbs-YFsqAiVcjVN6ct3edNDV-cSnMPliDq_bjxf-ng/viewform
+
+Récapitulatif Stratégie des services : 
+
+Exercice - Stratégie des services : 
+
+Correction - Stratégie des services : 
+
+Récapitulatif Conception des services : 
+
+Exercice - Conception des services : 
+
+Correction - Correction des services : 
+
+TP - SEQ 2 : 
