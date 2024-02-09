@@ -4,6 +4,8 @@ Si besoin, vous pouvez me contacter directement sur Teams ou par mail à kenza.a
 
 Formulaire stagiaire : https://forms.monday.com/forms/e7ea8d67309be01ac829bf1cfaca3cc7?r=use1
 
+Modalités d'évaluation : https://nimble-echinacea-d64.notion.site/Modalit-s-d-valuation-module-5ITIL-061962abe03747a0ba82a37da339096c?pvs=4
+
 ## JOUR 1
 
 Récapitulatif - Vue générale d'ITIL : https://nimble-echinacea-d64.notion.site/R-capitulatif-ITIL-1668ed4d849541febd7f6369c7eba83b?pvs=4
