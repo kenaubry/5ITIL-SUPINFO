@@ -40,9 +40,9 @@ Exercice - Transition des services : https://nimble-echinacea-d64.notion.site/Ex
 
 Correction - Transition des services : https://nimble-echinacea-d64.notion.site/Correction-Transition-des-services-8e68b8b3e411478bb89567754e9a79ea?pvs=4
 
-Récapitulatif Exploitation des services : 
+Récapitulatif Exploitation des services : https://nimble-echinacea-d64.notion.site/Exploitation-des-services-8f90a9023d4e4df1a99cf6851c27f0aa?pvs=4
 
-Exercice - Exploitation des services :
+Exercice - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exercices-Exploitation-des-services-48bfdf769e1f4a6f8b9798e77e29c79a?pvs=4
 
 Correction - Exploitation des services : 
 
