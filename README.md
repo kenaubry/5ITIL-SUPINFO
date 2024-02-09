@@ -51,3 +51,5 @@ Récapitulatif Amélioration Continue :
 Exercice - Amélioration Continue : 
 
 Correction - Amélioration Continue : 
+
+TP - SEQ 3 : 
