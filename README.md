@@ -31,3 +31,21 @@ Correction - Conception des services : https://nimble-echinacea-d64.notion.site/
 TP - SEQ 2 : https://nimble-echinacea-d64.notion.site/TP-SEQ-2-5edd06598940472aa738c42aace4d2cb?pvs=4
 
 ## JOUR 3
+
+Récapitulatif Transition des services : https://nimble-echinacea-d64.notion.site/Transition-des-services-f0c7919e18f44a7f9c3d9e96f4c0b687?pvs=4
+
+Exercice - Transition des services : 
+
+Correction - Transition des services : 
+
+Récapitulatif Exploitation des services : 
+
+Exercice - Exploitation des services :
+
+Correction - Exploitation des services : 
+
+Récapitulatif Amélioration Continue : 
+
+Exercice - Amélioration Continue : 
+
+Correction - Amélioration Continue : 
