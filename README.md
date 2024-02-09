@@ -36,7 +36,7 @@ TP - SEQ 2 : https://nimble-echinacea-d64.notion.site/TP-SEQ-2-5edd06598940472aa
 
 Récapitulatif Transition des services : https://nimble-echinacea-d64.notion.site/Transition-des-services-f0c7919e18f44a7f9c3d9e96f4c0b687?pvs=4
 
-Exercice - Transition des services : 
+Exercice - Transition des services : https://nimble-echinacea-d64.notion.site/Exercice-Transition-des-services-83b061ae907948c6b834b67eb178fbcf?pvs=4
 
 Correction - Transition des services : 
 
