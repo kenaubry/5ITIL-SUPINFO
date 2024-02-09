@@ -54,6 +54,6 @@ Récapitulatif Amélioration Continue : https://nimble-echinacea-d64.notion.site
 
 Exercice - Amélioration Continue : https://nimble-echinacea-d64.notion.site/Exercice-Am-lioration-continue-491581dc7b0048f4954ae8384823143c?pvs=4
 
-Correction - Amélioration Continue : 
+Correction - Amélioration Continue : https://nimble-echinacea-d64.notion.site/Correction-Am-lioration-continue-151f08e7121248bd802001ef548ca25d?pvs=4
 
-TP - SEQ 3 : 
+TP - SEQ 3 : https://nimble-echinacea-d64.notion.site/TP-SEQ-3-08e8d6a00d5f4162ae559a7e071f0c67?pvs=4
