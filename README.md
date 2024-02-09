@@ -1,5 +1,9 @@
 # ITIL
 
+N'hésitez pas à cloner directement ce repo pour avoir toutes les ressources en local.
+
+`git clone https://github.com/kenaubry/5ITIL-SUPINFO.git`
+
 Si besoin, vous pouvez me contacter directement sur Teams ou par mail à kenza.aubry@supinfo.com (demande de ressources ou d'informations, prévenir une absence...)
 
 Formulaire stagiaire : https://forms.monday.com/forms/e7ea8d67309be01ac829bf1cfaca3cc7?r=use1
