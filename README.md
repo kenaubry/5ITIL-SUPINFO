@@ -57,3 +57,11 @@ Exercice - Amélioration Continue : https://nimble-echinacea-d64.notion.site/Exe
 Correction - Amélioration Continue : https://nimble-echinacea-d64.notion.site/Correction-Am-lioration-continue-151f08e7121248bd802001ef548ca25d?pvs=4
 
 TP - SEQ 3 : https://nimble-echinacea-d64.notion.site/TP-SEQ-3-08e8d6a00d5f4162ae559a7e071f0c67?pvs=4
+
+## JOUR 4
+
+SVS : https://nimble-echinacea-d64.notion.site/Syst-me-de-Valeur-des-Services-0b5fa2128c5f4b13896826aa9d026355?pvs=4
+
+QCM - SVS : 
+
+Exercice - Gouvernance : 
