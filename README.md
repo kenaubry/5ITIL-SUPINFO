@@ -64,7 +64,9 @@ SVS : https://nimble-echinacea-d64.notion.site/Syst-me-de-Valeur-des-Services-0b
 
 QCM - SVS : https://forms.gle/1UJjPLtueCq5BARs8
 
-Exercice - Gouvernance : 
+Exercice - Gouvernance : https://nimble-echinacea-d64.notion.site/Exercice-Gouvernance-75d6a86f8b83456caa52b809009cb832?pvs=4
+
+Correction - Gouvernance :
 
 ## JOUR 5
 
