@@ -68,10 +68,18 @@ Exercice - Gouvernance : https://nimble-echinacea-d64.notion.site/Exercice-Gouve
 
 Correction - Gouvernance : https://nimble-echinacea-d64.notion.site/Correction-Gouvernance-6a64c1c61e6e4c56b1879219dff948ca?pvs=4
 
-Les 4 dimensions de la Gestion de Services : 
+Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Les-4-dimensions-de-la-Gestion-de-Services-1b0d4071e7bc48f2ad7ed0558002f19d?pvs=4
+
+Exercice - Les 4 dimensions de la Gestion de Services : 
+
+Correction - Les 4 dimensions de la Gestion de Services : 
+
+TP - SEQ 4 : 
 
 ## JOUR 5
 
-9h-12h : Examen Blanc
+### 9h-12h - Examen blanc
 
-Après-midi : TP
+Examen blanc : 
+
+TP - SEQ 5 : 
