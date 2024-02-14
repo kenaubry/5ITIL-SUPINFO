@@ -74,7 +74,7 @@ Exercice - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea
 
 Correction - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Correction-4-dimensions-76c78776817f439eb6d8c0d3b90ee018?pvs=4
 
-TP - SEQ 4 : 
+TP - SEQ 4 : https://nimble-echinacea-d64.notion.site/TP-SEQ-4-ff40a8cff1a74be2aa9e916bb54b2efc?pvs=4
 
 ## JOUR 5
 
