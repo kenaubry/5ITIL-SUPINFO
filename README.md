@@ -70,7 +70,7 @@ Correction - Gouvernance : https://nimble-echinacea-d64.notion.site/Correction-G
 
 Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Les-4-dimensions-de-la-Gestion-de-Services-1b0d4071e7bc48f2ad7ed0558002f19d?pvs=4
 
-Exercice - Les 4 dimensions de la Gestion de Services : 
+Exercice - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Exercice-4-dimensions-70a4a488aa074ba584d4c0f3a36c11fd?pvs=4
 
 Correction - Les 4 dimensions de la Gestion de Services : 
 
