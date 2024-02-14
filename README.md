@@ -65,3 +65,7 @@ SVS : https://nimble-echinacea-d64.notion.site/Syst-me-de-Valeur-des-Services-0b
 QCM - SVS : 
 
 Exercice - Gouvernance : 
+
+## JOUR 5
+
+9h-12h : Examen Blanc
