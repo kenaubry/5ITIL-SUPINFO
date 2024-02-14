@@ -69,3 +69,5 @@ Exercice - Gouvernance :
 ## JOUR 5
 
 9h-12h : Examen Blanc
+
+Après-midi : TP
