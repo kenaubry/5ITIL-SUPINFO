@@ -62,7 +62,7 @@ TP - SEQ 3 : https://nimble-echinacea-d64.notion.site/TP-SEQ-3-08e8d6a00d5f4162a
 
 SVS : https://nimble-echinacea-d64.notion.site/Syst-me-de-Valeur-des-Services-0b5fa2128c5f4b13896826aa9d026355?pvs=4
 
-QCM - SVS : 
+QCM - SVS : https://forms.gle/1UJjPLtueCq5BARs8
 
 Exercice - Gouvernance : 
 
