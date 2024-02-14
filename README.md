@@ -66,7 +66,7 @@ QCM - SVS : https://forms.gle/1UJjPLtueCq5BARs8
 
 Exercice - Gouvernance : https://nimble-echinacea-d64.notion.site/Exercice-Gouvernance-75d6a86f8b83456caa52b809009cb832?pvs=4
 
-Correction - Gouvernance :
+Correction - Gouvernance : https://nimble-echinacea-d64.notion.site/Correction-Gouvernance-6a64c1c61e6e4c56b1879219dff948ca?pvs=4
 
 Les 4 dimensions de la Gestion de Services : 
 
