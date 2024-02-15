@@ -78,8 +78,8 @@ TP - SEQ 4 : https://nimble-echinacea-d64.notion.site/TP-SEQ-4-ff40a8cff1a74be2a
 
 ## JOUR 5
 
-### 9h-12h - Examen blanc
+### 9h15-12h15 - Examen blanc
 
-Examen blanc : 
+Examen blanc : https://forms.gle/hmsgrCxDPnDhGehk6
 
 TP - SEQ 5 : 
