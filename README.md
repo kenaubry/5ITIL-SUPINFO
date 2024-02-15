@@ -83,3 +83,9 @@ TP - SEQ 4 : https://nimble-echinacea-d64.notion.site/TP-SEQ-4-ff40a8cff1a74be2a
 Examen blanc : https://forms.gle/hmsgrCxDPnDhGehk6
 
 TP - SEQ 5 : https://nimble-echinacea-d64.notion.site/TP-SEQ-5-485fccdcd7a64ac2855ad2ae0d7a2297?pvs=4
+
+Notes Examen Blanc : Je mettrais le lien ici lorsque j'aurais corrigé les questions ouvertes
+
+Correction Examen Blanc : Je mettrais la correction detaillée ici rapidement
+
+Envoyez moi un message sur Teams ou par mail si vous avez d'autres questions
