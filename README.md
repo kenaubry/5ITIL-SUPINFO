@@ -89,3 +89,5 @@ Notes Examen Blanc : Je mettrais le lien ici lorsque j'aurais corrigé les quest
 Correction Examen Blanc : Je mettrais la correction detaillée ici rapidement
 
 Envoyez moi un message sur Teams ou par mail si vous avez d'autres questions
+
+NOTE FINALE TP : La note pour le TP a été mise à disposition sur Moodle
