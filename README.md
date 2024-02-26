@@ -80,6 +80,8 @@ TP - SEQ 4 : https://nimble-echinacea-d64.notion.site/TP-SEQ-4-ff40a8cff1a74be2a
 
 ### 9h15-12h15 - Examen blanc
 
+Lexique ITIL : https://nimble-echinacea-d64.notion.site/Lexique-9ee2e81756874762a41c7c24a28edec4?pvs=4
+
 Examen blanc : https://forms.gle/hmsgrCxDPnDhGehk6
 
 TP - SEQ 5 : https://nimble-echinacea-d64.notion.site/TP-SEQ-5-485fccdcd7a64ac2855ad2ae0d7a2297?pvs=4
