@@ -86,7 +86,7 @@ TP - SEQ 5 : https://nimble-echinacea-d64.notion.site/TP-SEQ-5-485fccdcd7a64ac28
 
 Notes Examen Blanc : Je mettrais le lien ici lorsque j'aurais corrigé les questions ouvertes
 
-Correction Examen Blanc : Je mettrais la correction detaillée ici rapidement
+Correction Examen Blanc : La correction est le .docx joint dans les fichiers du Github
 
 Envoyez moi un message sur Teams ou par mail si vous avez d'autres questions
 
